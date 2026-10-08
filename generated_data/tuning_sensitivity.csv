@@ -1,0 +1,5 @@
+sea_state,sigma_n_m,selected_omega_o_rad_s,minimum_total_e3_rms_m_s2,boundary_solution
+3,0.002,3.25,0.016295984051002754,False
+3,0.005,2.5,0.021026008682810154,False
+3,0.01,2.0,0.025526056633239067,False
+3,0.02,1.75,0.03060579723500382,False
