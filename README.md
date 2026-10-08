@@ -2,13 +2,18 @@
 
 Reference implementation and reproducible workflow for the paper
 
-> **Exact Pole Placement for a ZOH-Discretized Extended State Observer: Noise-Aware Auditing with a JONSWAP Case Study**
+> **Exact Pole Placement for a ZOH-Discretized Extended State Observer: Noise Analysis and a JONSWAP Case Study**
 > Xingda Li, Jianqiang Zhang, Bo Zhang, Pengfei Zhang, Ling Tan
 > MDPI *Mathematics* (under revision)
 
 This repository is the code and data release requested in review (Reviewer 1, comment 12;
 Reviewer 3, comment 6). It regenerates every table, every figure and every numerical value
 reported in the manuscript.
+
+**Release used for the first revision:** tag `v1.0.0`. The manuscript's Data Availability
+Statement cites this repository as the exact version used for the revision; that version is
+this tag. (The title above is the revised title; earlier drafts of the paper used
+"Noise-Aware Auditing", and this repository was first published under that wording.)
 
 ## What the code shows
 

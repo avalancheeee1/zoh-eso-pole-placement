@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the accompanying paper."
-title: "Exact Pole Placement for a ZOH-Discretized Extended State Observer: Noise-Aware Auditing with a JONSWAP Case Study"
+title: "Exact Pole Placement for a ZOH-Discretized Extended State Observer: Noise Analysis and a JONSWAP Case Study"
+version: "1.0.0"
+date-released: "2026-10-08"
 abstract: >-
   Reference implementation for an implementation-level analysis of a third-order
   extended state observer that combines exact zero-order-hold state prediction with a
